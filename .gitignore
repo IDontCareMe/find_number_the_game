@@ -6,3 +6,10 @@
 # Other python
 *.lock
 *.toml
+.upm/
+.config/
+venv/
+
+# replit files
+.replit
+replit.nix
